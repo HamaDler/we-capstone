@@ -31,7 +31,7 @@ Shlemon Namrod [Project Code]() | [View]().</br>
 Shwan Shero Hassan [Project Code]() | [View](). </br>
 Twana Jirjees [Project Code]() | [View](). </br>
 Xanda Nawzad [Project Code]() | [View]() </br>
-Yasir Tawfeq [Project Code]() | [View](). </br>
+Yasir Tawfeq [Project Code](https://github.com/YasirTawfeq/kurdanime) | [View](https://kurdanime.netlify.app/). </br>
 Yusif Qasim [Project Code]() | [View](). </br>
 Zara Qojo [Project Code]() | [View](). </br>
 iman zuher [Project Code]() | [View](). </br>
