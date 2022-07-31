@@ -26,7 +26,7 @@ Rebaz Mohsen Avdal [Project Code]() | [View]() </br>
 Sana Rizgar [Project Code]() | [View](). </br>
 Sanarya Hamakarim [Project Code]() | [View]() </br>
 Sara Sardar [Project Code]() | [View]() </br>
-Shajwan Namiq [Project Code]() | [View](). </br>
+Shajwan Namiq [Project Code](https://github.com/Shajwan-Namiq/my-capstone-app) | [View](). </br>
 Shlemon Namrod [Project Code]() | [View]().</br>
 Shwan Shero Hassan [Project Code]() | [View](). </br>
 Twana Jirjees [Project Code]() | [View](). </br>
