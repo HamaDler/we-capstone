@@ -1,7 +1,7 @@
 ## This repository holds capstone projects for WeCode participants.
 
 Abdulbari Qaisar [Project Code]() | [View](). </br>
-Ahmed Azad [Project Code]() | [View]().</br>
+Ahmed Azad [Project Code](https://github.com/ahmedazadi/ExpCountr).</br>
 Ala Kawa [Project Code]() | [View](). </br>
 Bakhtyar Mohammed [Project Code]() | [View](). </br>
 Binai Jaza [Project Code]() | [View](). <br>
