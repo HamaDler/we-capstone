@@ -14,7 +14,7 @@ Harman Rzgar [Project Code]() | [View](). </br>
 Hekar Azwar Mohammed Salih [Project Code](https://github.com/HekarNizarki/KurdTour-React) | [View](https://kurdtour.netlify.app/).</br>
 Hend Mohammed [Project Code]() | [View](). </br>
 Hero Ibrahim [Project Code]() | [View]().</br>
-Jihad Issa [Project Code]() | [View](). <br>
+Jihad Issa [https://github.com/jihadrekani/CarExhibition]() | [View](). <br>
 Mahmood Wirya [Project Code]() | [View](). </br>
 Mohammed khalil [Project Code]() | [View]() </br>
 Muhamad xalid [Project Code]() | [View]() </br>
