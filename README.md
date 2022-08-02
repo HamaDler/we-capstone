@@ -25,7 +25,7 @@ Rebaz Jabar [Project Code]() | [View](). </br>
 Rebaz Mohsen Avdal [Project Code]() | [View]() </br>
 Sana Rizgar [Project Code]() | [View](). </br>
 Sanarya Hamakarim [Project Code]() | [View]() </br>
-Sara Sardar [Project Code]() | [View]() </br>
+Sara Sardar [Project Code](https://github.com/Sara-Sardar/kurdlancer-capstone-project) | [View]() </br>
 Shajwan Namiq [Project Code]() | [View](). </br>
 Shlemon Namrod [Project Code]() | [View]().</br>
 Shwan Shero Hassan [Project Code]() | [View](). </br>
