@@ -35,4 +35,4 @@ Yasir Tawfeq [Project Code](https://github.com/YasirTawfeq/kurdanime) | [View](h
 Yusif Qasim [Project Code]() | [View](). </br>
 Zara Qojo [Project Code]() | [View](). </br>
 iman zuher [Project Code]() | [View](). </br>
-Mahmood wirya [Project Code]() | [View](). </br>
+Mahmood wirya [Project Code](https://github.com/mahmood-wirya/Robomall) | [View](). </br>
