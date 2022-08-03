@@ -6,7 +6,7 @@ Ala Kawa [Project Code]() | [View](). </br>
 Bakhtyar Mohammed [Project Code]() | [View](). </br>
 Binai Jaza [Project Code]() | [View](). <br>
 Chawan Khalil [Project Code]() | [View]().</br>
-Danyar khdir [Project Code]() | [View](). </br>
+Danyar khdir [Project Code](https://github.com/Danyarkhdir/kurd-photos.git) | [View](https://kurd-photos.netlify.app/). </br>
 Diyari Fariq M salih [Project Code]() | [View](). </br>
 Eman Jamal [Project Code]() | [View](). </br>
 Harman Muhammad Saed [Project Code]() | [View](). </br>
