@@ -29,7 +29,7 @@ Sanarya Hamakarim [Project Code]() | [View]() </br>
 Sara Sardar [Project Code](https://github.com/Sara-Sardar/kurdlancer-capstone-project) | [View](https://kurdlancer.netlify.app/) </br>
 Shajwan Namiq [Project Code]() | [View](). </br>
 Shakar Kosar [Project Code]() | [View](). </br>
-Shlemon Namrod [Project Code]() | [View]().</br>
+Shlemon Namrod [Project Code](https://github.com/Shlemon/rwanga-capstone-project-restaurant-management) | [View](https://rwanga-capstone-project.netlify.app/).</br>
 Shwan Shero Hassan [Project Code]() | [View](). </br>
 Twana Jirjees [Project Code]() | [View](). </br>
 Xanda Nawzad [Project Code]() | [View]() </br>
