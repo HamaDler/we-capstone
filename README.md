@@ -25,7 +25,7 @@ Rebaz Jabar [Project Code]() | [View](). </br>
 Rebaz Mohsen Avdal [Project Code]() | [View]() </br>
 Sana Rizgar [Project Code](https://github.com/Sanaa00/hotel-capstone.git) | [View](). </br>
 Sanarya Hamakarim [Project Code]() | [View]() </br>
-Sara Sardar [Project Code]() | [View]() </br>
+Sara Sardar [Project Code](https://github.com/Sara-Sardar/kurdlancer-capstone-project) | [View](https://kurdlancer.netlify.app/) </br>
 Shajwan Namiq [Project Code]() | [View](). </br>
 Shakar Kosar [Project Code]() | [View](). </br>
 Shlemon Namrod [Project Code]() | [View]().</br>
