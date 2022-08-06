@@ -23,7 +23,7 @@ Othman Yahya [Project Code]() | [View](). </br>
 Rawaz Ali [Project Code](https://github.com/rawazali999/phoenix-store) | [View](). </br>
 Rebaz Jabar [Project Code]() | [View](). </br>
 Rebaz Mohsen Avdal [Project Code]() | [View]() </br>
-Sana Rizgar [Project Code]() | [View](). </br>
+Sana Rizgar [Project Code](https://github.com/Sanaa00/hotel-capstone.git) | [View](). </br>
 Sanarya Hamakarim [Project Code]() | [View]() </br>
 Sara Sardar [Project Code]() | [View]() </br>
 Shajwan Namiq [Project Code]() | [View](). </br>
