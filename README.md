@@ -23,7 +23,7 @@ Muhammad Kadhim Hassan [Project Code](https://github.com/Muhammadkadhim/bookShop
 Othman Yahya [Project Code]() | [View](). </br>
 Rawaz Ali [Project Code](https://github.com/rawazali999/phoenix-store) | [View](). </br>
 Rebaz Jabar [Project Code]() | [View](). </br>
-Rebaz Mohsen Avdal [Project Code]() | [View]() </br>
+Rebaz Mohsen Avdal [Project Code](https://github.com/RebazMohsen/Capstone-We-CornPoppers) | [View](to be added soon (Nelify problem)) </br>
 Sana Rizgar [Project Code](https://github.com/Sanaa00/hotel-capstone.git) | [View](). </br>
 Sanarya Hamakarim [Project Code]() | [View]() </br>
 Sara Sardar [Project Code](https://github.com/Sara-Sardar/kurdlancer-capstone-project) | [View](https://kurdlancer.netlify.app/) </br>
@@ -36,4 +36,3 @@ Xanda Nawzad [Project Code]() | [View]() </br>
 Yasir Tawfeq [Project Code](https://github.com/YasirTawfeq/kurdanime) | [View](https://kurdanime.netlify.app/). </br>
 Yusif Qasim [Project Code]() | [View](). </br>
 Zara Qojo [Project Code]() | [View](). </br>
-
