@@ -30,7 +30,7 @@ Sara Sardar [Project Code](https://github.com/Sara-Sardar/kurdlancer-capstone-pr
 Shajwan Namiq [Project Code]() | [View](). </br>
 Shakar Kosar [Project Code](https://github.com/sShakar/wecode-ecommerce-website) | [View](). </br>
 Shlemon Namrod [Project Code](https://github.com/Shlemon/rwanga-capstone-project-restaurant-management) | [View](https://rwanga-capstone-project.netlify.app/).</br>
-Shwan Shero Hassan [Project Code]() | [View](). </br>
+Shwan Shero Hassan [Project Code](https://github.com/SHWAN108/moment-FinalProject) | [View](). </br>
 Twana Jirjees [Project Code]() | [View](). </br>
 Xanda Nawzad [Project Code]() | [View]() </br>
 Yasir Tawfeq [Project Code](https://github.com/YasirTawfeq/kurdanime) | [View](https://kurdanime.netlify.app/). </br>
