@@ -13,7 +13,7 @@ Harman Muhammad Saed [Project Code](https://github.com/HarmanSoftware/renma) | [
 Harman Rzgar [Project Code]() | [View](). </br>
 Hekar Azwar Mohammed Salih [Project Code](https://github.com/HekarNizarki/KurdTour-React) | [View](https://kurdtour.netlify.app/).</br>
 Hend Mohammed [Project Code]() | [View](). </br>
-Hero Ibrahim [Project Code]() | [View]().</br>
+Hero Ibrahim [Project Code](https://github.com/he-rro/myCapstonProject) | [View]().</br>
 iman zuher [Project Code](https://github.com/Imanzuher/we-capstone-project) | [View](). </br>
 Jihad Issa [https://github.com/jihadrekani/CarExhibition]() | [View](). <br>
 Mahmood wirya [Project Code](https://github.com/mahmood-wirya/Robomall) | [View](). </br>
