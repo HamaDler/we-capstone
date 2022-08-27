@@ -28,7 +28,7 @@ Sana Rizgar [Project Code](https://github.com/Sanaa00/hotel-capstone.git) | [Vie
 Sanarya Hamakarim [Project Code](https://github.com/sanaryaa/travel-Guid) | [View](I will add it soon) </br>
 Sara Sardar [Project Code](https://github.com/Sara-Sardar/kurdlancer-capstone-project) | [View](https://kurdlancer.netlify.app/) </br>
 Shajwan Namiq [Project Code](https://github.com/Shajwan-Namiq/my-capstone-app) | [View](). </br>
-Shakar Kosar [Project Code](https://github.com/sShakar/wecode-ecommerce-website) | [View](). </br>
+Shakar Kosar [Project Code](https://github.com/sShakar/wecode-ecommerce-website) | [View](https://shakar-wecode-ecommerce.netlify.app). </br>
 Shlemon Namrod [Project Code](https://github.com/Shlemon/rwanga-capstone-project-restaurant-management) | [View](https://rwanga-capstone-project.netlify.app/).</br>
 Shwan Shero Hassan [Project Code](https://github.com/SHWAN108/moment-FinalProject) | [View](). </br>
 Twana Jirjees [Project Code]() | [View](). </br>
