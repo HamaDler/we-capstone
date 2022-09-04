@@ -8,7 +8,7 @@ Binai Jaza [Project Code]() | [View](). <br>
 Chawan Khalil [Project Code]() | [View]().</br>
 Danyar khdir [Project Code]() | [View](). </br>
 Diyari Fariq M salih [Project Code]() | [View](). </br>
-Eman Jamal [Project Code](https://github.com/emanjse/2in1) | [View](https://2in1erbil.netlify.app/). </br>
+Eman Jamal [Project Code](https://github.com/emanjse/2in1-Restaurant) | [View](https://2in1kurdistan.netlify.app/). </br>
 Harman Muhammad Saed [Project Code](https://github.com/HarmanSoftware/renma) | [View](). </br>
 Harman Rzgar [Project Code]() | [View](). </br>
 Hekar Azwar Mohammed Salih [Project Code](https://github.com/HekarNizarki/KurdTour-React) | [View](https://kurdtour.netlify.app/).</br>
