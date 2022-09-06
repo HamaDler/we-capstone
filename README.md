@@ -15,7 +15,7 @@ Hekar Azwar Mohammed Salih [Project Code](https://github.com/HekarNizarki/KurdTo
 Hend Mohammed [Project Code]() | [View](). </br>
 Hero Ibrahim [Project Code]() | [View]().</br>
 Jihad Issa [https://github.com/jihadrekani/CarExhibition]() | [View](). <br>
-Mahmood wirya [Project Code](https://github.com/mahmood-wirya/Robomall) | [View](). </br>
+Mahmood wirya [Project Code](https://github.com/mahmood-wirya/Robomall) | [View](https://robo-mall.netlify.app). </br>
 Mohammed khalil [Project Code]() | [View]() </br>
 Muhamad xalid [Project Code]() | [View]() </br>
 Muhammad Kadhim Hassan [Project Code]() | [View]().</br>
