@@ -20,7 +20,7 @@ Mohammed khalil [Project Code]() | [View]() </br>
 Muhamad xalid [Project Code]() | [View]() </br>
 Muhammad Kadhim Hassan [Project Code]() | [View]().</br>
 Othman Yahya [Project Code]() | [View](). </br>
-Rawaz Ali [Project Code](https://github.com/rawazali999/phoenix-store) | [View](). </br>
+Rawaz Ali [Project Code](https://github.com/rawazali999/phoenix-store) | [View](https://phoenix-store.netlify.app/). </br>
 Rebaz Jabar [Project Code]() | [View](). </br>
 Rebaz Mohsen Avdal [Project Code]() | [View]() </br>
 Sana Rizgar [Project Code]() | [View](). </br>
