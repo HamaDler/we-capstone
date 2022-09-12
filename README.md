@@ -27,7 +27,7 @@ Rebaz Mohsen Avdal [Project Code](https://github.com/RebazMohsen/Capstone-We-Cor
 Sana Rizgar [Project Code](https://github.com/Sanaa00/hotel-capstone.git) | [View](). </br>
 Sanarya Hamakarim [Project Code](https://github.com/sanaryaa/travel-Guid) | [View](I will add it soon) </br>
 Sara Sardar [Project Code](https://github.com/Sara-Sardar/kurdlancer-capstone-project) | [View](https://kurdlancer.netlify.app/) </br>
-Shajwan Namiq [Project Code](https://github.com/Shajwan-Namiq/my-capstone-app) | [View](https://my-capstone-app.vercel.app/). </br>
+Shajwan Namiq [Project Code](https://github.com/Shajwan-Namiq/my-capstone-app) | [View](https://my-capstone-app-furniture.vercel.app/). </br>
 Shakar Kosar [Project Code](https://github.com/sShakar/wecode-ecommerce-website) | [View](). </br>
 Shlemon Namrod [Project Code](https://github.com/Shlemon/rwanga-capstone-project-restaurant-management) | [View](https://rwanga-capstone-project.netlify.app/).</br>
 Shwan Shero Hassan [Project Code](https://github.com/SHWAN108/moment-FinalProject) | [View](). </br>
