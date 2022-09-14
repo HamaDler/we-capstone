@@ -12,7 +12,7 @@ Eman Jamal [Project Code](https://github.com/emanjse/2in1) | [View](https://2in1
 Harman Muhammad Saed [Project Code](https://github.com/HarmanSoftware/renma) | [View](). </br>
 Harman Rzgar [Project Code]() | [View](). </br>
 Hekar Azwar Mohammed Salih [Project Code](https://github.com/HekarNizarki/KurdTour-React) | [View](https://kurdtour.netlify.app/).</br>
-Hend Mohammed [Project Code](https://github.com/hind178/Eating-My-Empire-) | [View](). </br>
+Hend Mohammed [Project Code](https://github.com/hind178/Eating-My-Empire) | [View](). </br>
 iman zuher [Project Code](https://github.com/Imanzuher/we-capstone-project) | [View](https://furno.netlify.app/). </br>
 Hero Ibrahim [Project Code](https://github.com/he-rro/myCapstonProject) | [View]().</br>
 Jihad Issa [https://github.com/jihadrekani/CarExhibition]() | [View](). <br>
