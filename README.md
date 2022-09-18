@@ -1,6 +1,6 @@
 ## This repository holds capstone projects for WeCode participants.
 
-Ahmed Azad [Project Code](https://github.com/ahmedazadi/ExpCountr).</br>
+Ahmed Azad [Project Code](https://github.com/ahmedazadi/ExpCountr) | [View](https://expcountr.netlify.app/).</br>
 Abdulbari Qaisar [Project Code](https://github.com/Abdulbariii/Wonder-Books) | [View](https://wonder-booksss.netlify.app/). </br>
 Ala Kawa [Project Code](https://github.com/AlaaKawa/Flower-Store/tree/master) | [View](). </br>
 Bakhtyar Mohammed [Project Code](https://github.com/Bakhtyar25/wecode-project) | [View](https://peshbini.netlify.app). </br>
