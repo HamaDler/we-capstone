@@ -8,7 +8,7 @@ Binai Jaza [Project Code](https://github.com/binaijaza/shine) | [View](https://s
 Chawan Khalil [Project Code](https://github.com/Chawa1/Commerce-app) | [View](https://celadon-fudge-8d250e.netlify.app/).</br>
 Danyar khdir [Project Code](https://github.com/Danyarkhdir/kurd-photos.git) | [View](https://kurd-photos.netlify.app/). </br>
 Diyari Fariq M salih [Project Code](https://github.com/dearyfareq/capstone) | [View](https://rococo-tapioca-4bfca0.netlify.app/). </br>
-Eman Jamal [Project Code](https://github.com/emanjse/2in1) | [View](https://2in1erbil.netlify.app/). </br>
+Eman Jamal [Project Code](https://github.com/emanjse/2in1-Restaurant) | [View](https://2in1kurdistan.netlify.app/). </br>
 Harman Muhammad Saed [Project Code](https://github.com/HarmanSoftware/renma) | [View](). </br>
 Harman Rzgar [Project Code]() | [View](). </br>
 Hekar Azwar Mohammed Salih [Project Code](https://github.com/HekarNizarki/KurdTour-React) | [View](https://kurdtour.netlify.app/).</br>
