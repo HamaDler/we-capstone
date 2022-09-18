@@ -36,4 +36,4 @@ Xanda Nawzad [Project Code](https://github.com/XandaNawzad/e-commerce-project) |
 Hema Dlawar [Project Code](https://github.com/hemadlawar/IMDB-React-APP) | [View](I will add it soon) </br>
 Yasir Tawfeq [Project Code](https://github.com/YasirTawfeq/kurdanime) | [View](https://kurdanime.netlify.app/). </br>
 Yusif Qasim [Project Code](https://github.com/YusifQasim/Kurd-shoes) | [View](https://kurdshoes.netlify.app/). </br>
-Zara Qojo [Project Code](https://github.com/ZaraQojo/MammaMia_POS_App) | [View](https://mammamia-pos-system-by-zaraqojo.netlify.app/). </br>
+Zara Qojo [Project Code](https://github.com/ZaraQojo/WeCapstoneProject) | [View](https://mamma-mia-restaurant-app.netlify.app//). </br>
