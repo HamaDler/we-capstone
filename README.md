@@ -32,7 +32,7 @@ Shajwan Namiq [Project Code](https://github.com/Shajwan-Namiq/my-capstone-app) |
 Shakar Kosar [Project Code](https://github.com/sShakar/wecode-ecommerce-website) | [View](https://shakar-wecode-ecommerce.netlify.app). </br>
 Shlemon Namrod [Project Code](https://github.com/Shlemon/rwanga-capstone-project-restaurant-management) | [View](https://rwanga-capstone-project.netlify.app/).</br>
 Shwan Shero Hassan [Project Code](https://github.com/SHWAN108/moment-FinalProject) | [View](https://moment10.netlify.app/). </br>
-Twana Jirjees [Project Code]() | [View](). </br>
+Twana Jirjees [Project Code](https://github.com/Twana999/cloud-management-wecapstone) | [View](Loading, will fix it soon ). </br>
 Xanda Nawzad [Project Code](https://github.com/XandaNawzad/e-commerce-project) | [View](https://e-commerce-project-capstone.netlify.app) </br>
 Hema Dlawar [Project Code](https://github.com/hemadlawar/IMDB-React-APP) | [View](I will add it soon) </br>
 Yasir Tawfeq [Project Code](https://github.com/YasirTawfeq/kurdanime) | [View](https://kurdanime.netlify.app/). </br>
