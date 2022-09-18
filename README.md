@@ -16,8 +16,12 @@ Hend Mohammed [Project Code]() | [View](). </br>
 iman zuher [Project Code](https://github.com/Imanzuher/we-capstone-project) | [View](https://furno.netlify.app/). </br>
 Hero Ibrahim [Project Code](https://github.com/he-rro/myCapstonProject) | [View]().</br>
 Jihad Issa [https://github.com/jihadrekani/CarExhibition]() | [View](). <br>
-Mahmood wirya [Project Code](https://github.com/mahmood-wirya/Robomall) | [View](). </br>
+
+Mahmood wirya [Project Code](https://github.com/mahmood-wirya/Robomall) | [View](https://robo-mall.netlify.app). </br>
+Mohammed khalil [Project Code]() | [View]() </br>
+
 Mohammed khalil [Project Code](https://github.com/Mohammedkhalil-Ali/Tourist-Guide) | [View]() </br>
+
 Muhamad xalid [Project Code]() | [View]() </br>
 Muhammad Kadhim Hassan [Project Code](https://github.com/Muhammadkadhim/Kitab-Store) | [View](https://kitabstore.netlify.app/).</br>
 Othman Yahya [Project Code](https://github.com/OthmanYahya/Wecode-Capstone-Project) | [View](). </br>
