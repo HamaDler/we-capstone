@@ -21,7 +21,7 @@ Mohammed khalil [Project Code](https://github.com/Mohammedkhalil-Ali/Tourist-Gui
 Muhamad xalid [Project Code]() | [View]() </br>
 Muhammad Kadhim Hassan [Project Code](https://github.com/Muhammadkadhim/Kitab-Store) | [View](https://kitabstore.netlify.app/).</br>
 Othman Yahya [Project Code](https://github.com/OthmanYahya/Wecode-Capstone-Project) | [View](). </br>
-Rawaz Ali [Project Code](https://github.com/rawazali999/phoenix-store) | [View](). </br>
+Rawaz Ali [Project Code](https://github.com/rawazali999/phoenix-store) | [View](https://phoenix-store.netlify.app/). </br>
 Rebaz Jabar [Project Code]() | [View](). </br>
 Rebaz Mohsen Avdal [Project Code](https://github.com/RebazMohsen/Capstone-We-CornPoppers) | [View](to be added soon (Nelify problem)) </br>
 Sana Rizgar [Project Code](https://github.com/Sanaa00/hotel-capstone.git) | [View](). </br>
